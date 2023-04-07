@@ -1,0 +1,53 @@
+{
+    "Bads": {
+        "Bad1": {
+            "Records": {
+                "1680838073": {
+                    "Patient": {
+                        "Name": "Anuj Paul",
+                        "Id": "P00000001"
+                    },
+                    "HealthData": {
+                        "HeartRate": "70",
+                        "O2Level": "90",
+                        "BloodPrassure": {
+                            "Systolic": "90",
+                            "Diastolic": "120"
+                        }
+                    },
+                    "Doctor": {
+                        "Name": "Dr. Sanjay Shah",
+                        "Id": "DR0001"
+                    }
+                }
+            }
+        },
+        "Bad2": {
+            "Records": {
+                "1680839073": {
+                    "Patient": {
+                        "Name": "Keyur Patel",
+                        "Id": "P00000010"
+                    },
+                    "HealthData": {
+                        "HeartRate": "75",
+                        "O2Level": "98",
+                        "BloodPrassure": {
+                            "Systolic": "100",
+                            "Diastolic": "130"
+                        }
+                    },
+                    "Doctor": {
+                        "Name": "Dr. Abhay Thakur",
+                        "Id": "DR0019"
+                    }
+                }
+            }
+        }
+    },
+    "Hospital": {
+        "Name": "Arogya General Hospital",
+        "RegisterId": "Reg-00000001",
+        "City": "Ahmedabad"
+    }
+}
